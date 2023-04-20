@@ -20,9 +20,6 @@ Users should be able to:
 
 ![](./assets/screenshots/ss4.png)
 
-### Links
-- Live Site URL: https://anshul-g.github.io/SpaceTravel/
-
 ### Built with
 
 - Semantic HTML5 markup
